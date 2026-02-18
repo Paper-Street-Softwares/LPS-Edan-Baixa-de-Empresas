@@ -147,7 +147,7 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: <>Quero encerrar meu CNPJ agora</>,
+      ctaButtonText: <>Quero encerrar meu CNPJ já</>,
       ctaButtonTextSecondary: <>A_Definir</>,
       obsHero: {
         icon: <>{/* ⚠️ */}</>,
