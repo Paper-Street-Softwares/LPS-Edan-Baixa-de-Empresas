@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://fecharcnpj.edancontabilidade.com.br/sitemap.xml
