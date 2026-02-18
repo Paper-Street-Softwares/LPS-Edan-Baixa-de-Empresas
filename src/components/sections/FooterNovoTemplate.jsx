@@ -89,11 +89,12 @@ function FooterNovoTemplate({
                   aria-label="recarregar página "
                 >
                   <img
-                    src={content.texts.navbar.logo.img}
+                    src={content.texts.navbar.logo.imgDesktop}
                     alt={content.texts.navbar.logo.alt}
-                    className="w-[50%]"
-                    width={276}
-                    height={93}
+                    className="hidden desktop1:flex w-fit max-h-full object-contain"
+                    width={350}
+                    height={128}
+                    fetchPriority="high"
                   />
                 </a>
 
