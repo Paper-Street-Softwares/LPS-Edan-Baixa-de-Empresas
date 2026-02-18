@@ -101,8 +101,8 @@ function NavbarNovaTemplate({
                 src={content.texts.navbar.logo.img}
                 alt={content.texts.navbar.logo.alt}
                 className="desktop1:hidden w-fit max-h-full object-contain flex"
-                width={276}
-                height={93}
+                width={195}
+                height={71}
                 fetchPriority="high"
               />
               <img
@@ -110,7 +110,7 @@ function NavbarNovaTemplate({
                 alt={content.texts.navbar.logo.alt}
                 className="hidden desktop1:flex w-fit max-h-full object-contain"
                 width={350}
-                height={148}
+                height={128}
                 fetchPriority="high"
               />
             </a>
