@@ -131,10 +131,12 @@ const content = {
       ),
       miniTag: <>Especialistas em Baixa de Empresas</>,
       FirstPart: (
-        <span>Encerramos sua empresa, sem você sair de casa, em até</span>
+        <span>Encerramos sua empresa sem você sair de casa, em apenas</span>
       ),
       Destaque: (
-        <span className="destaque relative italic font-light">5 dias</span>
+        <span className="destaque relative italic font-light">
+          5 dias úteis
+        </span>
       ),
       SecondPart: <span> </span>,
       subtitle: (
