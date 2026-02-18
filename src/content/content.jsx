@@ -147,7 +147,7 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: <>Quero encerrar minha empresa agora</>,
+      ctaButtonText: <>Encerrar minha empresa agora</>,
       ctaButtonTextSecondary: <>A_Definir</>,
       obsHero: {
         icon: (

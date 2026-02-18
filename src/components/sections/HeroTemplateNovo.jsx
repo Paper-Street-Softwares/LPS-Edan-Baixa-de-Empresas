@@ -212,6 +212,7 @@ function HeroTemplateNovo({
               /> */}
               {obs && (
                 <div className="flex justify-start items-center gap-3 text-sm w-full">
+                  
                   {content.texts.hero.obsHero.icon}
                   <span
                     className={`font-secondFont font-light flex gap-2 items-center ${textOpacity}`}
