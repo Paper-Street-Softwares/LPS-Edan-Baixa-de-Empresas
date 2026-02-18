@@ -150,7 +150,7 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: <>Falar com especialista agora</>,
+      ctaButtonText: <>Quero encerrar meu CNPJ já</>,
       ctaButtonTextSecondary: <>A_Definir</>,
       obsHero: {
         icon: <>{/* ⚠️ */}</>,
@@ -224,7 +224,7 @@ const content = {
       fraseObs: (
         <>Entre em contato conosco e lhe daremos todo o suporte necessário</>
       ),
-      ctaButtonText: <>Falar conosco agora</>,
+      ctaButtonText: <>Falar com especialista agora</>,
     },
     features: {
       miniTag: <>O que você realmente ganha</>,
