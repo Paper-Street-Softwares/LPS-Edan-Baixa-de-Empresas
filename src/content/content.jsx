@@ -139,9 +139,9 @@ const content = {
       SecondPart: <span> </span>,
       subtitle: (
         <>
-          São mais de 40 anos especializados em baixa e encerramento
-          empresarial, protegendo você de multas, pendências fiscais e problemas
-          que continuam correndo mesmo com a empresa parada.
+          São mais de 40 anos de experiência em baixas e encerramento de
+          empresas, protegendo você de multas, pendências fiscais e problemas
+          que podem ocorrer se você deixar a empresa parada.
         </>
       ),
       heroDefaultImage: heroDefaultImg, // img da pessoa mobile
