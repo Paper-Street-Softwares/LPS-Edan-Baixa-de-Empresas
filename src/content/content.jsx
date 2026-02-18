@@ -129,16 +129,19 @@ const content = {
           {/* 🚨 */}
         </>
       ),
-      miniTag: <>ENCERRAMENTO DE EMPRESAS</>,
-      FirstPart: <span>Encerre sua empresa em até</span>,
+      miniTag: <>Especialistas em Baixa de Empresas</>,
+      FirstPart: (
+        <span>Encerramos sua empresa, sem você sair de casa, em até</span>
+      ),
       Destaque: (
         <span className="destaque relative italic font-light">5 dias</span>
       ),
       SecondPart: <span> </span>,
       subtitle: (
         <>
-          Mais de 40 anos especialistas em baixa e encerramento sem burocracia e
-          sem surpresas.
+          São mais de 40 anos especializados em baixa e encerramento
+          empresarial, protegendo você de multas, pendências fiscais e problemas
+          que continuam correndo mesmo com a empresa parada.
         </>
       ),
       heroDefaultImage: heroDefaultImg, // img da pessoa mobile
@@ -147,7 +150,7 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: <>Quero encerrar meu CNPJ já</>,
+      ctaButtonText: <>Falar com especialista agora</>,
       ctaButtonTextSecondary: <>A_Definir</>,
       obsHero: {
         icon: <>{/* ⚠️ */}</>,
@@ -324,7 +327,7 @@ const content = {
           buttonLabel: "Saiba Mais",
         },
       },
-      ctaButtonText: <>Falar com a Edan</>,
+      ctaButtonText: <>Recupere sua paz</>,
     },
     cardsSection: {
       miniTag: <>A_Definir</>,
@@ -426,7 +429,7 @@ const content = {
           },
         },
       },
-      ctaButtonText: <>Falar com a Edan agora</>,
+      ctaButtonText: <>Falar conosco agora</>,
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p className="font-secondFont">
