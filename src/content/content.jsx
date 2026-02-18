@@ -147,18 +147,10 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: <>Encerrar minha empresa agora</>,
+      ctaButtonText: <>Quero encerrar meu CNPJ agora</>,
       ctaButtonTextSecondary: <>A_Definir</>,
       obsHero: {
-        icon: (
-          <>
-            <div className="relative flex">
-              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-600 opacity-75"></span>
-              <span className="relative inline-flex rounded-full h-3 w-3 bg-green-600"></span>
-            </div>
-            {/* ⚠️ */}
-          </>
-        ),
+        icon: <>{/* ⚠️ */}</>,
         iconTwo: <></>,
         text: <>Atendimento em todo território nacional.</>,
         textTwo: <>A_Definir</>,
