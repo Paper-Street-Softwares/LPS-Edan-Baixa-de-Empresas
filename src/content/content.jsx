@@ -130,43 +130,16 @@ const content = {
         </>
       ),
       miniTag: <>ENCERRAMENTO DE EMPRESAS</>,
-      FirstPart: <span>Mais de</span>,
+      FirstPart: <span>Encerre sua empresa em até</span>,
       Destaque: (
-        <span className="destaque relative italic font-light">40 anos</span>
+        <span className="destaque relative italic font-light">5 dias</span>
       ),
-      SecondPart: (
-        <span>
-          {" "}
-          trazendo segurança para você encerrar sua empresa sem dor de cabeça
-        </span>
-      ),
+      SecondPart: <span> </span>,
       subtitle: (
-        <div>
-          <p className="flex gap-2">
-            <span>
-              <Check className="text-primaryDark" width={18} />
-            </span>
-            Atendimento direto
-          </p>
-          <p className="flex gap-2">
-            <span>
-              <Check className="text-primaryDark" width={18} />
-            </span>
-            Linguagem simples
-          </p>
-          <p className="flex gap-2">
-            <span>
-              <Check className="text-primaryDark" width={18} />
-            </span>
-            Sem termos técnicos
-          </p>
-          <p className="flex gap-2">
-            <span>
-              <Check className="text-primaryDark" width={18} />
-            </span>
-            Sem surpresas
-          </p>
-        </div>
+        <>
+          Mais de 40 anos especialistas em baixa e encerramento sem burocracia e
+          sem surpresas.
+        </>
       ),
       heroDefaultImage: heroDefaultImg, // img da pessoa mobile
       heroDefaulMobiletImg: heroDefaultMobileImg,
@@ -174,7 +147,7 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: <>Falar com a Edan Agora</>,
+      ctaButtonText: <>Quero encerrar minha empresa agora</>,
       ctaButtonTextSecondary: <>A_Definir</>,
       obsHero: {
         icon: (
