@@ -134,7 +134,7 @@ const content = {
         <span>Encerramos sua empresa sem você sair de casa, em apenas</span>
       ),
       Destaque: (
-        <span className="destaque relative italic font-light">
+        <span className="relative italic font-light destaque">
           5 dias úteis
         </span>
       ),
@@ -152,7 +152,7 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: <>Quero encerrar meu CNPJ já</>,
+      ctaButtonText: <>Falar Com Contador Agora</>,
       ctaButtonTextSecondary: <>A_Definir</>,
       obsHero: {
         icon: <>{/* ⚠️ */}</>,
